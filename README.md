@@ -6,4 +6,5 @@ A,B,E,C,D
 E,B,R
 
 La salida es la siguiente 
+![alt text](https://github.com/dhamarmj/AprioriAlgorithm/blob/master/Apriori/img/Salida.PNG)
 
